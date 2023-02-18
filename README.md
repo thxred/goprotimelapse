@@ -1,5 +1,5 @@
 # GoProTimeLapse
-A shell script that uses GoPro http command's to create a timelapse
+A shell script that uses GoPro http command's to create a timelapse.
 
 This project is the combination of a GoPro camera and a computer with the Linux operating system. 
 Using a shell script and tools like FFMPEG, ImageMagick, FLock and the Crontab service. 
